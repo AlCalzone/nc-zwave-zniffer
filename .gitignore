@@ -1,5 +1,6 @@
 GNU*/
 artifact/
+artifacts/
 .pdm/
 .uceditor/
 .cproject
