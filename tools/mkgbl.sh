@@ -3,7 +3,7 @@
 # COMMANDER: Path to Simplicity Commander binary
 
 BUILD_OUTPUT=build/release/nc_controller_zniffer.hex
-OUTFILE=artifact/zwa2_controller.gbl
+OUTFILE=artifact/zwa2_zniffer.gbl
 SIGN_KEY=keys/vendor_sign.key
 ENC_KEY=keys/vendor_encrypt.key
 
